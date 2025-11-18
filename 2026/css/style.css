@@ -46,6 +46,11 @@ nav a:hover {
     color: white;
     text-align: center;
     padding: 4rem 2rem;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .hero h1 {
